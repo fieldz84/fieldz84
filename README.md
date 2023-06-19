@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fieldz84
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...kotlin
-- 💞️ I’m looking to collaborate on ...anything Android relatef
+- 💞️ I’m looking to collaborate on ...anything Android related
 - 📫 How to reach me ...Hatfieldyoda@gmail.com
 
 <!---
